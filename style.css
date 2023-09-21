@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    width: 100%;
+    min-height: 100vh;
+    margin: 20px 4% auto;
+    padding: 10px;
+    border: solid 1px #000;
+    position: relative;
+}
+
+.linha{
+    width:100%;
+    height: 50%;
+    color: black;
+    background-color: black;
+}
+.container{
+    height: 500px;
+}
+.container p{
+    line-height: 25px;
+    text-align: center;
+    justify-content: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.container h1{
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.container img{
+    margin-bottom: 10px;
+    align-items: center;
+    border-radius: 50%;
+}
+
+h2{
+    text-align:left;
+    margin: 15px;
+}
+
+.divisao{
+
+    line-height: 25px;
+}
+
+.divisao p{
+    margin: 10px;
+    padding: 10px;
+    margin-inline-start: 5px;
+}
+
+.divisao ul li{
+    line-height: 25px;
+    list-style-type: square;
+    margin-left: 35px;
+}
+
+
+.divisao ul li{
+    line-height:30px;
+    text-align: justify;
+}
